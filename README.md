@@ -1,5 +1,2 @@
-# TestRepo
-## For Class Demonstration
-Excel work is added in the excel_challenge folder
-Another update
-
+# Excel challenge
+The repository contains an excel workbook which analyses the market trends for Kickstarter projects.
